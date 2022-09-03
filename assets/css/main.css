@@ -21,7 +21,7 @@ section, summary, time, mark, audio, video {
 	margin: 0;
 	padding: 0;
 	border: 0;
-	font-size: 100%;
+	font-size: 120%;
 	font: inherit;
 	vertical-align: baseline;}
 
@@ -163,7 +163,7 @@ input, select, textarea {
 	}
 
 	p {
-		margin: 0 0 2em 0;
+		margin: 0 0 1em 0;
 	}
 
 	h1 {
@@ -2855,8 +2855,8 @@ input, select, textarea {
 
 				#header .logo .symbol img {
 					display: block;
-					width: 4em;
-					height: 4em;
+					width: 7em;
+					height: 7em;
 				}
 
 		#header nav {
